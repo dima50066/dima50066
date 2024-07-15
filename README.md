@@ -10,9 +10,7 @@
   
 
 - 🌱 I’m currently learning JS-React-Node-Vue  
-  
 
-- ⚡ Fun fact: I use tabs over spaces  
   
 
 <br/>  
