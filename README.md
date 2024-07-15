@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Dmytro, a junior full-stack freelance developer 👨‍💻</div>  
+### <div align="center">I'm Dmytro, a junior full-stack developer 👨‍💻</div>  
   
 
 - 🔭Looking for a job  
