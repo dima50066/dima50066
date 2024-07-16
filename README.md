@@ -6,7 +6,7 @@
 ### <div align="center">I'm Dmytro, a junior full-stack developer 👨‍💻</div>  
   
 
-- 🔭Looking for a job  
+- 🔭Looking for a project
   
 
 - 🌱 I’m currently learning JS-React-Node-Vue  
